@@ -5,6 +5,8 @@ This tool helps us to retrieve textual data from thousands of documents. This id
 # How to run it loaclly 
 
 ##  Using Docker 
-/*comand $docker compose build
-         $docker compose up
+### step: 1
+ $docker compose build
+### step: 2  
+ $docker compose up
 
